@@ -1,0 +1,5 @@
+train: D:/Machine_Learning/yolov8/Construction Site Safety/train
+val: D:/Machine_Learning/yolov8/Construction Site Safety/valid
+
+nc: 10
+names: ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle']
